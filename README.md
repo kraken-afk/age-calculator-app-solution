@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/age-calculator-with-reactjs-YuqtHE23_v)
-- Live Site URL: [Add live site URL here](https://age-calculator-app-solution.vercel.app/)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/age-calculator-with-reactjs-YuqtHE23_v)
+- Live Site URL: [Here](https://age-calculator-app-solution.vercel.app/)
 
 ## My process
 
